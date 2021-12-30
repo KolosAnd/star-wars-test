@@ -1,4 +1,4 @@
-import React, {useEffect} from "react";
+import React from "react";
 import PlanetCard from "../PlanetCard/PlanetCard";
 import mainClass from "./CardList.module.css";
 
